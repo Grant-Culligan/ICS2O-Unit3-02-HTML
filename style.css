@@ -1,0 +1,18 @@
+.para {
+  color: aqua;
+  padding: 50px;
+  border: 1px solid magenta;
+}
+
+.tablo {
+  width: 50%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.imag {
+  width: 60%;
+  height: 60%;
+  margin: 30px;
+  border: 1px solid gold;
+}
